@@ -3168,14 +3168,15 @@ html, body{
 
 /* Sponsor-logo : logos on sponsor page */
 .sponsor-logo{
-    height: 20vh;
-    display: inline-block;
-    margin: 5%;
+    max-width: 15em;
+    display: inline-table;
+    vertical-align: middle;
+    margin: 3%;
 }
-
-.sponsor-logo > img{
-    height: 100%;
-}
+    .sponsor-logo > img{
+        height: 100%;
+        width: 100%;
+    }
 
 
 /** banner (new) */
