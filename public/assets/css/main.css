@@ -21,7 +21,7 @@ html, body{
 		border: 0;
 		font-size: 100%;
 		font: inherit;
-		vertical-align: baseline;
+		vertical-align: middle;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -3181,4 +3181,14 @@ html, body{
 
 #banner-n > img {
     width: 100%
+}
+
+#speaker-tb td {
+	padding: 5%;
+}
+span.image.featured{
+	height: 15em;
+}
+span.image.featured > img{
+	height: 100%;
 }
