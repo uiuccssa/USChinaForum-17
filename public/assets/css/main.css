@@ -2353,7 +2353,7 @@ html, body{
 			padding: 0 0 2.75em 0;
 			margin: 0;
             display: inline-block;
-        vertical-align: bottom;
+        vertical-align: middle;
 		}
 
 			#header h1 a {
@@ -2675,10 +2675,6 @@ html, body{
 			#header {
 				padding: 2em 0 0 0;
 			}
-
-				#header h1 {
-					padding: 0 0 1.75em 0;
-				}
 
 		/* Banner */
 
