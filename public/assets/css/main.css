@@ -3173,6 +3173,10 @@ html, body{
         width: 100%;
     }
 
+    .sponsor-logo#co-host{
+        max-width: initial;
+    }
+
 
 /** banner (new) */
 #banner-n {
@@ -3185,6 +3189,7 @@ html, body{
 #speaker-tb td {
 	padding: 5%;
 }
+
 span.image.featured{
 	height: 15em;
 }
