@@ -2350,7 +2350,6 @@ html, body{
 	}
 
 		#header h1 {
-			padding: 0 0 2.75em 0;
 			margin: 0;
             display: inline-block;
         vertical-align: middle;
@@ -3191,4 +3190,9 @@ span.image.featured{
 }
 span.image.featured > img{
 	height: 100%;
+}
+
+
+.img-abt > img {
+    width: 100%;
 }
